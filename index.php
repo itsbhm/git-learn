@@ -1,4 +1,9 @@
 <?php
 
+$age = 19;
 
-echo "It Works!";
+if($age >= 18){
+    echo "He can Vote!";
+}else {
+    echo "He can not Vote!";
+}
