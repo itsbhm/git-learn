@@ -1,6 +1,6 @@
 <?php
 
-$age = 19;
+$age = 17;
 
 if($age >= 18){
     echo "He can Vote!";
